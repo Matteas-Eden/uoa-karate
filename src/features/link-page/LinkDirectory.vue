@@ -47,7 +47,7 @@
           <a
             href="https://drive.google.com/open?id=0B-VdjkUccnFtQUIxM0tJUnNvSzg"
             target="_blank"
-            >Beginner's Guide to Goju Ryu</a
+            >Beginner's Guide to Gōjū Ryū</a
           >
         </li>
       </ul>

@@ -5,7 +5,7 @@
       source="img/group_saifa.JPG"
       heading="About the Club"
       :paragraph="
-        `The Auckland University Goju Ryu Karate Club welcomes both university students and non-students, with any level of experience, and with any martial arts background.`
+        `The Auckland University Gōjū Ryū Karate Club welcomes both university students and non-students, with any level of experience, and with any martial arts background.`
       "
     ></hero-image>
     <div class="image-one">
@@ -20,7 +20,7 @@
       <h2>About the Club</h2>
       <p>
         {{
-          `Founded in 2003 by Sensei Ewan Tempero (4th degree Black Belt) and Sensei Tom Davies (4th degree Black Belt), The University of Auckland Goju Ryu Karate Club has been running for over ${new Date().getFullYear() -
+          `Founded in 2003 by Sensei Ewan Tempero (4th degree Black Belt) and Sensei Tom Davies (4th degree Black Belt), The University of Auckland Gōjū Ryū Karate Club has been running for over ${new Date().getFullYear() -
             2003} years.`
         }}
       </p>
@@ -31,7 +31,7 @@
           target="_blank"
           rel="noopener noreferrer"
         >
-          International Okinawan Goju Ryu Federation (IOGKF)</a>, an international body dedicated to preserving the art of the Okinawan
+          International Okinawan Gōjū Ryū Federation (IOGKF)</a>, an international body dedicated to preserving the art of the Okinawan
         Goju-Ryu Karate, as well as the New Zealand branch organization,
         <a
           href="https://karate.org.nz"
@@ -245,32 +245,32 @@ export default {
           name: "Sensei Ewan Tempero",
           rank: 5,
           desc:
-            "Sensei Ewan has over 30 years of Goju Ryu experience. He is the chief instructor of the club, which he co-founded with Sensei Tom in 2003.",
+            "Sensei Ewan has over 30 years of Gōjū Ryū experience. He is the chief instructor of the club, which he co-founded with Sensei Tom in 2003.",
           imgSrc: "/img/sensei_ewan.jpg"
         },
         {
           name: "Sensei Tom Davies",
           rank: 4,
           desc:
-            "Sensei Tom has over 20 years experience in the martial arts, with black belts in Goju Ryu and several other Karate styles. He co-founded the club with Sensei Ewan.",
+            "Sensei Tom has over 20 years experience in the martial arts, with black belts in Gōjū Ryū and several other Karate styles. He co-founded the club with Sensei Ewan.",
           imgSrc: "/img/sensei_tom.jpg"
         },
         {
           name: "Sensei Greg Shanahan",
           rank: 3,
-          desc: "Sensei Greg has over 25 years experience in Goju Ryu.",
+          desc: "Sensei Greg has over 25 years experience in Gōjū Ryū.",
           imgSrc: "/img/sensei_greg.jpg"
         },
         {
           name: "Sensei Yin Tung Ho",
           rank: 3,
-          desc: "Sensei Yin has over 15 years experience in Goju Ryu.",
+          desc: "Sensei Yin has over 15 years experience in Gōjū Ryū.",
           imgSrc: "/img/sensei_yin_2.png"
         },
         {
           name: "Sensei Richard Ly",
           rank: 3,
-          desc: "Sensei Richard has over 10 years of Goju Ryu experience.",
+          desc: "Sensei Richard has over 10 years of Gōjū Ryū experience.",
           imgSrc: "/img/sensei_richard.png"
         }
       ],
