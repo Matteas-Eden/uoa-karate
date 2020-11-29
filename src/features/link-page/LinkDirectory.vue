@@ -6,42 +6,43 @@
         <h2>Forms</h2>
 
         <li>
-          <a href="https://goo.gl/forms/sTq5WHgxXTOSmMx42" target="_blank"
-            >Club Sign Up Sheet</a
-          >
+          <a
+            href="https://goo.gl/forms/sTq5WHgxXTOSmMx42"
+            target="_blank"
+          >Club Sign Up Sheet</a>
         </li>
         <li>
-          <a href="https://goo.gl/forms/YMUAxBg9q3fgG0VB3" target="_blank"
-            >Club Reimbursement Form</a
-          >
+          <a
+            href="https://goo.gl/forms/YMUAxBg9q3fgG0VB3"
+            target="_blank"
+          >Club Reimbursement Form</a>
         </li>
         <li>
-          <a href="https://forms.gle/w2XPZWTuuhKuYysz8" target="_blank"
-            >Injury Record Submission Form</a
-          >
+          <a
+            href="https://forms.gle/w2XPZWTuuhKuYysz8"
+            target="_blank"
+          >Injury Record Submission Form</a>
         </li>
       </ul>
       <ul>
         <h2>Tools and Info</h2>
         <li>
           <router-link :to="'/grading-info/'">
-            Grading Syllabus
+            What do I need to know for Grading?
           </router-link>
         </li>
         <li>
           <a
             href="https://www.youtube.com/playlist?list=PLjmMUBeoZL9eM-TUV8YFDd0w0IIfQ2lLc"
             target="_blank"
-            >Club Video Playlist</a
-          >
+          >Club Video Playlist</a>
         </li>
 
         <li>
           <a
             href="https://drive.google.com/file/d/1ej27e0nkSEZgCooaJor7WsK9nIFzJx7Y/view?usp=sharing"
             target="_blank"
-            >Health and Safety Guidelines</a
-          >
+          >Health and Safety Guidelines</a>
         </li>
         <li>
           <a
@@ -54,19 +55,22 @@
       <ul>
         <h2>Other Links</h2>
         <li>
-          <a href="http://karate.org.nz/" target="_blank"
-            >Website for IOGKF's New Zealand Branch</a
-          >
+          <a
+            href="http://karate.org.nz/"
+            target="_blank"
+          >Website for IOGKF's New Zealand Branch</a>
         </li>
         <li>
-          <a href="http://karate.org.nz/" target="_blank">Website for IOGKF</a>
+          <a
+            href="http://karate.org.nz/"
+            target="_blank"
+          >Website for IOGKF</a>
         </li>
         <li>
           <a
             href="https://auckland.campuslabs.com/engage/organization/goju-ryu-karate-club"
             target="_blank"
-            >UoA Karate Club on Engage</a
-          >
+          >UoA Karate Club on Engage</a>
         </li>
       </ul>
     </div>
